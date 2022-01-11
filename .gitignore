@@ -1,0 +1,10 @@
+.vscode
+.tmp
+.testCoverage.txt
+.idea
+statics
+.history
+client/node_modules
+.DS_Store
+ vendor/
+*.iml
