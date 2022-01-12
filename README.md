@@ -1,6 +1,6 @@
 # kubernetes-vagrantfile
 
-vagrant file to be used for k8s associated programs developments, file include with parallels instead of virtualbox:
+Vagrant file for k8s associated programs developments, file include with parallels instead of Virtualbox:
 - ubuntu 20.04 arm 
 - parallels (must be installed)
 - minikube
